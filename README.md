@@ -1,2 +1,4 @@
 # FolderGenerator
 一个工具类，用于Unity新项目自动创建常用文件夹
+
+点击菜单栏Tools→GenerateBasicFolders即可一键创建常用文件夹
